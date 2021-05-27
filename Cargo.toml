@@ -1,0 +1,7 @@
+[package]
+name = "toy-assembler"
+version = "0.1.0"
+authors = ["aheart <aheart@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
